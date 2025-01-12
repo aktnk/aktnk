@@ -21,4 +21,4 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
           UTC_OFFSET: 9
-          EXCLUDE: "Jupyter%20Notebook"
+          EXCLUDE: "Jupyter Notebook"
