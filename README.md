@@ -10,7 +10,7 @@ These cards are powered by https://github.com/vn7n24fzkq/github-profile-summary-
 
 #### Github Profile Trophy
 
-![trophy](https://github-profile-trophy.vercel.app/?username=aktnk&theme=nord)
+![trophy](https://github-profile-trophy-winning.vercel.app/?username=aktnk&theme=nord)
 
 ---
 
